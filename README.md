@@ -1,2 +1,2 @@
 # TE-Practicals
-NA
+AI and DSBDA Practicals
